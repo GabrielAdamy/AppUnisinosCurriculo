@@ -25,3 +25,21 @@
 #container a {
   text-decoration: none;
 }
+
+ion-content {
+  background-color: #ffffff;
+}
+ion-label {
+  text-align: left;
+}
+
+ion-input {
+  background-color: #49877f;
+  color:white;
+  border-radius:25px;
+  border-block-color:none;
+}
+
+.msg{
+    color:red;
+}
